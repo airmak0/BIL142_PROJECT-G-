@@ -1,0 +1,16 @@
+# ninja log v5
+22	613	7321288371811814	CMakeFiles/CosmicVoyageR.dir/src/asteroid_belt.cpp.obj	301b6782eb1aa728
+10	503	7321288370701365	CMakeFiles/CosmicVoyageR.dir/src/strong_ship.cpp.obj	c5420c497239bc88
+13	534	7321288371006456	CMakeFiles/CosmicVoyageR.dir/src/normal_ship.cpp.obj	75250f9f76b6c851
+4	832	7323201462443351	CMakeFiles/CosmicVoyageR.dir/src/ship.cpp.obj	280216a20c3cbe51
+15	504	7321288370711373	CMakeFiles/CosmicVoyageR.dir/src/quick_ship.cpp.obj	d4ca8502572a0046
+4	509	7322072371087673	CMakeFiles/CosmicVoyageR.dir/main.cpp.obj	52b79668292d4347
+27	632	7321288371998916	CMakeFiles/CosmicVoyageR.dir/src/space_pirates.cpp.obj	a3e3f42316603279
+19	610	7321288371781803	CMakeFiles/CosmicVoyageR.dir/src/abandoned_planet.cpp.obj	4e84584d143903e1
+4	978	7322069313749532	CMakeFiles/CosmicVoyageR.dir/src/event.cpp.obj	156eb204ec4d392b
+832	1065	7323201464738425	CosmicVoyageR.exe	c437e6c41cf69afe
+47	667	7324030014330311	CMakeFiles/CosmicVoyageR.dir/src/normal_ship.cpp.obj	75250f9f76b6c851
+3	668	7324030014330311	CMakeFiles/CosmicVoyageR.dir/src/quick_ship.cpp.obj	d4ca8502572a0046
+51	668	7324030014330311	CMakeFiles/CosmicVoyageR.dir/src/strong_ship.cpp.obj	c5420c497239bc88
+54	795	7324030015601267	CMakeFiles/CosmicVoyageR.dir/src/event.cpp.obj	156eb204ec4d392b
+795	1211	7324030019725628	CosmicVoyageR.exe	c437e6c41cf69afe
